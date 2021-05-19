@@ -32,3 +32,6 @@ Here is a list of email spam filters:
 * Adversarial Classification
 
 For the last but not least classifier, which is "Adversarial Classifier", is an approach to update NB based e-mail spam ﬁlters in response to attacks that try to evade a basic NB ﬁlter. It is inspired from [paper](https://dl.acm.org/doi/10.1145/1014052.1014066).
+
+## References:
+Calculate Precision, Recall, and F-Measure for Imbalanced Classification(https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/)
